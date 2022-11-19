@@ -1,1 +1,1 @@
-github.com/TaiLuu23/project-1/links-and-images/main-project/index
+github.com/TaiLuu23//links-and-images/main-project/index.html
